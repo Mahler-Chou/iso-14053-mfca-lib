@@ -1,5 +1,5 @@
 # The Material Flow Cost Accounting (MFCA) Toolkit for ISO 14053:2021(E) Implementation.
-## 以 ISO 14053:2021(E) 的物質流成本會計(MFCA)實作套件
+## 根據 ISO 14053:2021(E) 的物質流成本會計(MFCA)實作套件
 
 **Owner:** Mahler-Chou 周敬斐
 
@@ -42,6 +42,7 @@ Open `how-to-use-iso-14053-mfca-lib-en.ipynb` to start your jouney.
 *   Visual Studio Code
 *   Ployglot Notebook Extension
 
+Download and install Visual Studio Code first, and find the extension "Ployglot".
 
 ## 4. Contributing
 
